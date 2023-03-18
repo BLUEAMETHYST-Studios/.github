@@ -1,1 +1,1 @@
-🥁
+Welcome to Blue Amethyst!
