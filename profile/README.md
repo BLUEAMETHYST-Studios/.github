@@ -7,7 +7,7 @@
 ## Our projects
 
 - Quick Starter [DISCONTINUED]
-- BLUETOOLS
+- BLUETOOLS [DISCONTINUED]
 - SISSHELL
 - PackIO
 - Winfo
